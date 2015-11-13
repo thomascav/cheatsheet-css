@@ -1,0 +1,29 @@
+fonts
+
+font-family 	[font name or type]
+font-style 	normal | italic
+font-weight 	normal | bold
+font-size 	[ xx-large | x-large | large | medium | small | x-small | xx-small ] | [ larger | smaller ] | percentage | length
+
+Color and Background Properties
+
+color couleur du texte
+background-image 	url | none
+background-repeat 	repeat | repeat-x | repeat-y | no-repeat
+background-attachment 	scroll | fixed
+background-position 	[ position | length ] | {1,2} | [ top | center | bottom ] || [ left | center | right ]
+background 	transparent | color || url || repeat || scroll || position
+
+Text Properties
+
+letter-spacing 	normal | length
+text-decoration 	none | underline | overline | line-through
+vertical-align 	sub | super |
+text-transform 	capitalize | uppercase | lowercase | none
+text-align 	left | right | center | justify
+text-indent 	length | percentage
+line-height 	normal | number | length | percentage
+
+Box Properties
+
+margin-top 	length | percentage | auto
