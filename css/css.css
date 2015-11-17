@@ -21,10 +21,12 @@ span {
 * {
     font-size: 1.2em;
 }
-nav {
-    /*position: fixed;
-    height: 30%;*/
-    margin-bottom: 2em;
+.breadcrumbs a {
+    font-size: 0.6em;
+    padding: 0.2em;
+}
+h4 {
+    padding: 1em;
 }
 ul li {
     list-style-type: none;
