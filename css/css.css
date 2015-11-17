@@ -5,12 +5,26 @@ header {
     background-color: #1659FF;
     text-align: center;
 }
+#logog {
+    height: 8em;
+    width: 8em;
+    margin: 1em;
+}
+#logor {
+    height: 8em;
+    width: 8em;
+    margin: 1em;
+}
+span {
+    display: inline-block;
+}
 * {
     font-size: 1.2em;
 }
 nav {
     /*position: fixed;
     height: 30%;*/
+    margin-bottom: 2em;
 }
 ul li {
     list-style-type: none;
