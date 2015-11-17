@@ -15,8 +15,8 @@ header {
     width: 8em;
     margin: 1em;
 }
-span {
-    display: inline-block;
+nav {
+    box-shadow: 0.06em 0.06em 0.75em #555;
 }
 * {
     font-size: 1.2em;
@@ -28,8 +28,16 @@ span {
 h4 {
     padding: 1em;
 }
+.panel {
+    background-color: #5787FF;
+}
+ul {
+    box-shadow: 0.06em 0.06em 0.75em #555;
+    background-color: #5787FF;
+}
 ul li {
     list-style-type: none;
+    box-shadow: 0.06em 0.06em 0.75em #555;
 }
 code {
     font-size: 1.2em;
@@ -39,7 +47,7 @@ h4 {
     background-color: #62B2FF;
 }
 dl {
-    background-color: #F8FF77;
+    background-color: #5787FF;
 }
 footer {
     font-style: italic;
