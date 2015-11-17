@@ -28,6 +28,13 @@ nav {
 h4 {
     padding: 1em;
 }
+#colhg {
+    padding-bottom: 5.98em;
+    background-color: #5787FF;
+}
+#colbd {
+    padding-bottom: 19.15em;
+}
 .panel {
     background-color: #5787FF;
 }
@@ -38,6 +45,7 @@ ul {
 ul li {
     list-style-type: none;
     box-shadow: 0.06em 0.06em 0.75em #555;
+    background-color: #5787FF;
 }
 code {
     font-size: 1.2em;
